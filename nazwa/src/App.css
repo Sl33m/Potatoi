@@ -1,0 +1,15 @@
+.przycisk{
+ right:50px;
+ background-color: orange
+;
+
+
+}
+.App{
+  width:400px;
+  height:400px;
+  background-color: aqua;
+}
+.dzialajacyprzycisk{
+  margin:auto;
+}
